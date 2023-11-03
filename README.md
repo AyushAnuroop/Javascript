@@ -1,2 +1,2 @@
 # Javascript
-A code repository for Javascript for practice 
+A code repository for Javascript practice 
